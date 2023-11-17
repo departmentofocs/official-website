@@ -381,6 +381,7 @@ Version:	1.1
 	
 }
 .header.sticky .header-bottom{
+	
 	position:absolute;
 	z-index:999;
 	top:initial;
@@ -393,7 +394,7 @@ Version:	1.1
 	position: absolute;
 	position: relative;
 	padding-bottom: 20px;
-	background: #fff;
+	background: #ffffff;
 }
 .slicknav_menu{
 	display:block;
@@ -1086,7 +1087,7 @@ Version:	1.1
 	top:0;
 	height:100%;
 	width:100%;
-	background:#fff;
+	background:rgb(19, 73, 200);
 	opacity:0.5;
 }
 .slider .single-slider h1 {
